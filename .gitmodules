@@ -1,6 +1,3 @@
-[submodule "src/include/rapidyaml"]
-	path = src/include/rapidyaml
-	url = https://github.com/biojppm/rapidyaml
 [submodule "src/include/tomlplusplus"]
 	path = src/include/tomlplusplus
 	url = https://github.com/marzer/tomlplusplus.git
