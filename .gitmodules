@@ -1,0 +1,15 @@
+[submodule "src/include/rapidyaml"]
+	path = src/include/rapidyaml
+	url = https://github.com/biojppm/rapidyaml
+[submodule "src/include/tomlplusplus"]
+	path = src/include/tomlplusplus
+	url = https://github.com/marzer/tomlplusplus.git
+[submodule "src/include/cmrc"]
+	path = src/include/cmrc
+	url = https://github.com/vector-of-bool/cmrc.git
+[submodule "src/include/pybind11"]
+	path = src/include/pybind11
+	url = https://github.com/pybind/pybind11.git
+[submodule "src/include/cpptoml"]
+	path = src/include/cpptoml
+	url = https://github.com/skystrife/cpptoml.git
