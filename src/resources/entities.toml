@@ -1,0 +1,87 @@
+[BasicTower]
+  category = 0
+  id = 1
+  health = 100
+  speed = 0.0
+  armor = 0
+  level = 0
+  cost_gold = 10
+  drop_gold = 0
+  [BasicTower.attack]
+  min = 2
+  max = 4
+  pen = 3
+  speed = 4
+  range = 3
+
+[FastTower]
+  category = 0
+  id = 2
+  health = 100
+  speed = 0.0
+  armor = 0
+  level = 0
+  cost_gold = 20
+  drop_gold = 0
+  [FastTower.attack]
+      min = 2
+      max = 4
+      pen = 3
+      speed = 4
+      range = 3
+
+[FasterTower]
+    category = 0
+    id = 3
+    health = 100
+    speed = 0.0
+    armor = 0
+    level = 0
+    cost_gold = 30
+    drop_gold = 0
+    [FasterTower.attack]
+        min = 4
+        max = 6
+        pen = 3
+        speed = 5
+        range = 3
+
+[Militia]
+    category = 1
+    id = 4
+    health = 40
+    speed = 1.0
+    armor = 2
+    level = 0
+    cost_gold = 10
+    drop_gold = 1
+
+[Footman]
+    category = 1
+    id = 5
+    health = 80
+    speed = 1.0
+    armor = 4
+    level = 0
+    cost_gold = 20
+    drop_gold = 1
+
+[Grunt]
+    category = 1
+    id = 6
+    health = 140
+    speed = 1.0
+    armor = 4
+    level = 0
+    cost_gold = 40
+    drop_gold = 1
+
+[ArmoredGrunt]
+    category = 1
+    id = 7
+    health = 190
+    speed = 1.2
+    armor = 6
+    level = 0
+    cost_gold = 100
+    drop_gold = 1
